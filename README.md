@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @XtnPaez AKA Cristian Páez
+- 👀 I’m interested in GIS, maps, open data, APIs, literature and DJ´s
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on JS maps viewers
+- 📫 How to reach me : paez.cristian@gmail.com
+- 😄 Pronouns: he
