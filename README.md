@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on JS maps viewers
 - 📫 How to reach me : paez.cristian@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
